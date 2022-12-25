@@ -19,3 +19,9 @@ The implemented Leung-malik filterbank has 48 filters in total. Two versions of 
 
 ### 3. Gabor filter
 A 2-D Gabor filter is a Gaussian kernel function modulated by a sinusoidal plane wave. A Gabor filter can be used to automatically extract features using a filter bank.
+
+### Running
+```sh
+cd Phase1
+python Wrapper.py
+```
